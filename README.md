@@ -1,5 +1,5 @@
 # UAS-Manajemen-Basis-Data-Kelompok-8
-### 🚀 Kelompok 2 Manajemen Basis Data
+## 🚀 Kelompok 2 Manajemen Basis Data
 - 1207050114 Salsabila Damayanti
 - 1207050120 Silmi Rahmawati
 - 1207050128 Wahyu Ariyatama
@@ -9,8 +9,8 @@
 ![image](https://user-images.githubusercontent.com/88075963/209414417-6714344c-2d87-43a7-8f02-ecfa27ef8ad7.png)
 ### Membuat Collection Baru
 ![image](https://user-images.githubusercontent.com/88075963/209414460-10e886a8-a746-4265-a4f0-576e1a7f2084.png)
-### Install Dependensi yang dibutuhkan
-
+## Install Dependensi yang dibutuhkan
+### npm install 
 ### Connect ke Aplikasi Node js
 ![image](https://user-images.githubusercontent.com/88075963/209414697-6218a446-b7d6-4727-9892-81bdd3f3afe5.png)
 ![image](https://user-images.githubusercontent.com/88075963/209414524-846e0d97-ca24-473e-82c0-f9fa21baf125.png)
