@@ -13,7 +13,7 @@
 ### Install NPM
 Pada folder project install npm dengan code :
 ```bash
-  npm instal
+  npm install -force
 ```
 ### Connect ke Aplikasi Node js
 ![image](https://user-images.githubusercontent.com/88075963/209414697-6218a446-b7d6-4727-9892-81bdd3f3afe5.png)
@@ -24,4 +24,7 @@ Pada folder project install npm dengan code :
 ![image](https://user-images.githubusercontent.com/88075963/209414793-8a9b2d59-82b4-4b33-84c9-78c07cd4db27.png)
 ### Endpoint
 ![Screenshot (396)](https://user-images.githubusercontent.com/88075963/209367940-6d216b92-fdfe-47f9-83e9-ba5872c8e6d5.png)
-### 📸 Screenshoot
+
+## Cara Menjalankan Aplikasi
+* Masuk ke folder "buku-tamu-backend" lalu jalankan npm start
+* Masuk ke folder "buku-tamu-frontend" lalu jalankan npm start
