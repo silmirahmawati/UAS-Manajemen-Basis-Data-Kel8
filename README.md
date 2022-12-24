@@ -5,6 +5,10 @@
 - 1207050128 Wahyu Ariyatama
 
 ## Cara Install dan Konfigurasi MongoDB / Nodejs
+### Install MongoDB
+Link Download  MongoDB 👉 https://www.mongodb.com/try/download/community
+### Install Node.js
+Link Download Node.js 👉 https://nodejs.org/en/download/
 ### Membuat Project Baru di MongoDB Compass
 ![image](https://user-images.githubusercontent.com/88075963/209414417-6714344c-2d87-43a7-8f02-ecfa27ef8ad7.png)
 ### Membuat Collection Baru
