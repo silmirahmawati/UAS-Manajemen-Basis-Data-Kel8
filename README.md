@@ -1,10 +1,11 @@
-# UAS-Manajemen-Basis-Data-Kelompok-8
-## 🚀 Kelompok 2 Manajemen Basis Data
+# UAS Manajemen Basis Data Kelompok 8
+
+## 🚀 Anggota
 - 1207050114 Salsabila Damayanti
 - 1207050120 Silmi Rahmawati
 - 1207050128 Wahyu Ariyatama
 
-## Cara Install dan Konfigurasi MongoDB / Nodejs
+## ⚒️ Cara Install dan Konfigurasi MongoDB / Nodejs
 ### Install MongoDB
 Link Download  MongoDB 👉 https://www.mongodb.com/try/download/community
 ### Install Node.js
@@ -13,7 +14,8 @@ Link Download Node.js 👉 https://nodejs.org/en/download/
 ![image](https://user-images.githubusercontent.com/88075963/209414417-6714344c-2d87-43a7-8f02-ecfa27ef8ad7.png)
 ### Membuat Collection Baru
 ![image](https://user-images.githubusercontent.com/88075963/209414460-10e886a8-a746-4265-a4f0-576e1a7f2084.png)
-## Install Dependensi yang dibutuhkan
+
+## 🧑‍💻 Install Dependensi yang dibutuhkan
 ### Install NPM
 Pada folder project install npm dengan code :
 ```bash
@@ -29,6 +31,6 @@ Pada folder project install npm dengan code :
 ### Endpoint
 ![Screenshot (396)](https://user-images.githubusercontent.com/88075963/209367940-6d216b92-fdfe-47f9-83e9-ba5872c8e6d5.png)
 
-## Cara Menjalankan Aplikasi
+## 💻 Cara Menjalankan Aplikasi
 * Masuk ke folder "buku-tamu-backend" lalu jalankan npm start
 * Masuk ke folder "buku-tamu-frontend" lalu jalankan npm start
