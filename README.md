@@ -5,6 +5,9 @@
 - 1207050120 Silmi Rahmawati
 - 1207050128 Wahyu Ariyatama
 
+## 🔗 Link Video Presentasi
+https://youtu.be/SKIUQAXScKM
+
 ## ⚒️ Cara Install dan Konfigurasi MongoDB / Nodejs
 ### Install MongoDB
 Link Download  MongoDB 👉 https://www.mongodb.com/try/download/community
@@ -32,5 +35,9 @@ Pada folder project install npm dengan code :
 ![Screenshot (396)](https://user-images.githubusercontent.com/88075963/209367940-6d216b92-fdfe-47f9-83e9-ba5872c8e6d5.png)
 
 ## 💻 Cara Menjalankan Aplikasi
+### Menyiapkan Aplikasi
+* Masuk ke folder "buku-tamu-backend" lalu jalankan npm install
+* Masuk ke folder "buku-tamu-frontend" lalu jalankan npm install
+### Menjalankan Aplikasi
 * Masuk ke folder "buku-tamu-backend" lalu jalankan npm start
 * Masuk ke folder "buku-tamu-frontend" lalu jalankan npm start
