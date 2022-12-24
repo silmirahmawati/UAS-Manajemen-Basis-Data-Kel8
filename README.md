@@ -10,7 +10,11 @@
 ### Membuat Collection Baru
 ![image](https://user-images.githubusercontent.com/88075963/209414460-10e886a8-a746-4265-a4f0-576e1a7f2084.png)
 ## Install Dependensi yang dibutuhkan
-### npm install 
+### Install NPM
+Pada folder project install npm dengan code :
+```bash
+  npm instal
+```
 ### Connect ke Aplikasi Node js
 ![image](https://user-images.githubusercontent.com/88075963/209414697-6218a446-b7d6-4727-9892-81bdd3f3afe5.png)
 ![image](https://user-images.githubusercontent.com/88075963/209414524-846e0d97-ca24-473e-82c0-f9fa21baf125.png)
