@@ -18,6 +18,14 @@ Link Download Node.js 👉 https://nodejs.org/en/download/
 ### Membuat Collection Baru
 ![image](https://user-images.githubusercontent.com/88075963/209414460-10e886a8-a746-4265-a4f0-576e1a7f2084.png)
 
+## 🛠 Tech
+Frontend : react 
+
+Backend  : express
+
+Database : MongoDB
+
+
 ## 🧑‍💻 Install Dependensi yang dibutuhkan
 ### Install NPM
 Pada folder project install npm dengan code :
